@@ -1,13 +1,14 @@
-# swindi
+# DevOps Full-Stack build, SveltKit, WindiCSS, TypeScript, eslint, prettier, husky, lint-staged, standard-version
+
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/swindi) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/swindi)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/sozonome/swindi)
 
-[WIP] This is a [Svelte Kit](https://kit.svelte.dev/) project bootstrapped with `create-svelte`, added with [**WindiCSS**](https://windicss.org) and [**TypeScript**](https://www.typescriptlang.org) setup.
+This is a [Svelte Kit](https://kit.svelte.dev/) project bootstrapped with `create-svelte`, added with [**WindiCSS**](https://windicss.org) and [**TypeScript**](https://www.typescriptlang.org) setup.
 Start developing right away!
 
-## 🔋⚡ Battery Packed template
+## 🔋⚡ Reorganized and Lit by seasoned full-stack developer Zurik Phillips of Verizon
 
 - ✔️ toolings for linting, formatting, and conventions configured
 
